@@ -1,0 +1,44 @@
+To Dos for today:
+
+TT:
+1. Build self-assessments and survey questions
+2. Build reports for the above
+3. Ask Janisia about the artwork/icons
+
+
+AP:
+DONE 1. Review Miesha's feedback and make updates
+2. Make sure we are linked to the Content folders
+
+EL:
+DONE 1. Add content to template
+DONE - NOT HAPPENING 2. See if I can create the WBT icon
+DID WORK ON - WILL CONTINUE 3. Coaching Feedback tool updates
+
+
+LI:
+1. Create template and make schedule for review
+
+
+Assessments:
+1. Mock-up of first assessments
+
+
+Enrollment:
+DONE 1. Correct the errors
+
+
+
+----------------------------
+500 increments
+up to 500 active users
+1st year - $43k
+Includes implementation - one-time cost @ $7500
+Enterprise is all features - except for subdomains and SF integration, but our pricing includes these
+Up to 1000 active users goes to $47k
+Next year renewal costs at 500 users is $38k, and at 1000 is $40k
+3-year contracts. If prices increase, it is pro-rated.
+Overage charge for month on additional users - per user, per month: $5.90 per user.
+
+
+
